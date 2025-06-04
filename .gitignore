@@ -1,0 +1,98 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+coverage.xml
+.coverage.*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Test files
+test_*.txt
+test_*.py
+demo_*.py
+debug_*.py
+
+# Cache and data directories
+cache/
+data/
+chroma_db/
+vectorstore/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Package files
+*.tar.gz
+*.whl
+
+# Security scan results
+bandit-report.json
+safety-report.json
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Local development
+local/
+scratch/
+experiments/
