@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/boleyn-fs-mcp-server-badge.png)](https://mseep.ai/app/boleyn-fs-mcp-server)
+
 # FS-MCP: Universal File Reader & Intelligent Search MCP Server
 
 <div align="center">
